@@ -1,0 +1,241 @@
+/* index.html */
+.mobileui{
+    color:black !important;
+    font-size:22px;
+
+}
+.skil {
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    color: #0e141e;
+    letter-spacing: 0;
+    font-size: 26px;
+    line-height: 1.4;
+}
+
+.program-head {
+    padding: 20px 0;
+    min-width: 0;
+}
+
+.top-sec {
+    border-bottom: 1px solid #ebebf3;
+}
+
+.preperation-sec {
+    background-color: #ebebf1;
+}
+
+.ur-pre {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    align-items: baseline;
+    font-size: 18px;
+    line-height: 1.4;
+    font-weight: 700;
+}
+
+.basecard {
+    padding: 30px;
+    background-color: #fff;
+    border: 1px solid #ebebf3;
+    margin-bottom: 40px;
+    border-radius: 15px;
+}
+
+.kit-prep {
+    color: #3a3a40;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    line-height: 1.4;
+    font-weight: 400;
+    letter-spacing: .6px;
+    font-size: 12px;
+}
+
+.inter-pre {
+    margin-bottom: 0px;
+    color: #35363f;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+    font-family: Satoshi, Open Sans, sans-serif;
+}
+
+.ready-for {
+    color: #738f93;
+    letter-spacing: 0;
+    font-size: 13px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.third-sec {
+    padding-bottom: 40px;
+}
+
+.all-kit {
+    margin-top: 20px;
+    height: 3rem;
+    background-color: #13813a;
+    color: #fff;
+    text-decoration: none;
+    padding: .5rem .75rem !important;
+    align-items: center !important;
+    justify-content: center !important;
+    line-height: 1.25rem !important;
+    font-size: .875rem !important;
+    border-radius: 8px;
+}
+
+.by-topi {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.4;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.algo-con {
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.line {
+    width: 80%;
+    height: 0;
+    border: 3px solid #13813a;
+    margin: 0px;
+    display: inline-block;
+
+}
+
+/* code compiler html*/
+.main-secc {
+    padding: 50px 0px;
+    height: 100vh;
+}
+
+.container {
+    height: 100%;
+}
+
+.scrollable {
+    overflow-y: auto;
+    height: 100%;
+}
+
+.lang {
+    text-align: end;
+}
+
+.langg {
+    text-align: baseline;
+}
+
+.time {
+    text-align: end;
+    color: blue;
+}
+
+.tex-chat {
+    margin-top: 30px;
+    width: 100%;
+    height: 50%;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+    resize: none;
+    background-color: black;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.btn-cod {
+    height: 3rem;
+    width: 100%;
+    background-color: #13813a;
+    color: #fff;
+    text-decoration: none;
+    padding: .5rem .95rem !important;
+    align-items: center !important;
+    justify-content: center !important;
+    line-height: 1.25rem !important;
+    font-size: .875rem !important;
+    border-radius: 8px;
+    border: none;
+    font-weight: 700;
+}
+
+.otupt {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.tex-cha {
+    width: 100%;
+    height: 20%;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+    resize: none;
+}
+
+/* question html */
+
+.solving {
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;  
+    color: #000;
+    letter-spacing: 0;
+    font-size: 26px;
+    line-height: 1.4;
+    padding: 20px;
+}
+.fir-sec {
+    border-bottom: 1px solid #000;
+}
+
+.secon-sec {
+    background-color: #ebebf1;
+    padding: 30px;
+}
+
+.py {
+    font-size: 18px;
+    line-height: 1.4;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 30px;
+}
+
+.quest-pro {
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 15px;
+    text-decoration: none !important;
+    color: #000;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.if-els {
+    font-weight: 700;
+    line-height: 1.4;
+    font-size: 21px;
+    font-family: Satoshi, Open Sans, sans-serif;
+}
+
+.chal {
+    text-decoration: none;
+    color: #000;
+    border: none;
+    padding: 9px;
+    color: #fff;
+    background-color: #13813a;
+    border-radius: 10px;
+}
